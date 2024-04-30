@@ -103,4 +103,4 @@ You will receive an email notification with the results upon completion of the e
 Note that you can re-evaluate your models until the deadline of the current exercise. Whereas the email contains the current evaluation result, the entry in the leaderboard always represents the best score for the respective exercise.
 
 ## 5. Acknowledgments
-We want to thank the **Stanford Vision Lab** and **PyTorch** for allowing us to build these exercises on material they had previously developed. We also thank the **TU Munich Chair of Computer Graphics and Visualization** for helping create course content.
+We want to thank the **Stanford Vision Lab** and **PyTorch** for allowing us to build these exercises on material they had previously developed. We also thank the **TU Munich Chair of Computer Graphics and Visualization** for helping create course content.# ComputerVision
