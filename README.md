@@ -104,3 +104,4 @@ Note that you can re-evaluate your models until the deadline of the current exer
 
 ## 5. Acknowledgments
 We want to thank the **Stanford Vision Lab** and **PyTorch** for allowing us to build these exercises on material they had previously developed. We also thank the **TU Munich Chair of Computer Graphics and Visualization** for helping create course content.# ComputerVision
+# ComputerVision
